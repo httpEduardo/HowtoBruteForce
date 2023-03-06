@@ -3,6 +3,7 @@
 uma ferramenta de força bruta que libera o poder da web criada em Python 3.10
 
 características
+
 1- aranha
 
 2- rastreador
