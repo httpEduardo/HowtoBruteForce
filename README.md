@@ -26,4 +26,4 @@ import rastrear
 
 rastrear(“http://example.com”)
 
-# Criado para fins de testes.
+Criado para fins de testes.
